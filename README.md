@@ -18,7 +18,6 @@ CloudOptima is a comprehensive desktop application that solves three major Opera
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Algorithms](#-algorithms)
-- [Screenshots](#-screenshots)
 - [Technical Details](#-technical-details)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -231,22 +230,6 @@ Operations_Research_Project/
 
 ---
 
-## 🖼️ Screenshots
-
-### Dashboard
-*Modern dark-themed interface with problem selection*
-
-### Linear Programming Solver
-*Real-time Simplex algorithm execution with tableau visualization*
-
-### Assignment Problem
-*Hungarian algorithm with step-by-step matrix reduction*
-
-### Transportation Problem
-*Multiple methods comparison with allocation tables*
-
----
-
 ## 🔬 Technical Details
 
 ### Technologies Used
@@ -304,7 +287,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Operations Research course materials
 - Cloud computing optimization research
@@ -323,7 +306,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**
-
----
-
-*Built with ❤️ for Operations Research enthusiasts*
